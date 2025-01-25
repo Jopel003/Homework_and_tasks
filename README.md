@@ -7,6 +7,7 @@
 [3. Проект-2 "Анализ вакансий из HeadHunter"](https://github.com/Jopel003/My_homework/tree/main/3.%20PROJECT-2_(SQL))  
 [4. Ответ на задание "Исследование данных HR-агенства"](https://github.com/Jopel003/My_homework/tree/main/4.%20EDA_4_HR_statistics)  
 [5. PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/Jopel003/My_homework/tree/main/5.%20PROJECT-3.%20EDA_Booking%20reviews%202023_07)
+[6. Project-5._MATH&ML. Продолжительность поездки на такси в Нью-Йорке](https://github.com/Jopel003/My_homework/tree/main/5.%20PROJECT-3.%20EDA_Booking%20reviews%202023_07)
 
 
 ### Описание проектов  
