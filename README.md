@@ -7,7 +7,8 @@
 [3. Проект-2 "Анализ вакансий из HeadHunter"](https://github.com/Jopel003/My_homework/tree/main/3.%20PROJECT-2_(SQL))  
 [4. Ответ на задание "Исследование данных HR-агенства"](https://github.com/Jopel003/My_homework/tree/main/4.%20EDA_4_HR_statistics)  
 [5. PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/Jopel003/My_homework/tree/main/5.%20PROJECT-3.%20EDA_Booking%20reviews%202023_07)  
-[6. Project-5._MATH&ML. Продолжительность поездки на такси в Нью-Йорке](https://github.com/Jopel003/Homework_and_tasks/tree/main/6.%20Project-5._MATH%26ML)
+[6. Project-5._MATH&ML. Продолжительность поездки на такси в Нью-Йорке](https://github.com/Jopel003/Homework_and_tasks/tree/main/6.%20Project-5._MATH%26ML)  
+[7. MATH&ML-7_NaiveBayesClassifier](https://github.com/Jopel003/Homework_and_tasks/tree/main/6.%20Project-5._MATH%26ML)  
 
 
 ### Описание проектов  
@@ -18,6 +19,7 @@
 4. HR-агентство изучает тренды на рынке труда в IT. Компания хочет провести исследование на основе данных о зарплатах в сфере Data Science за 2020–2022 годы и получить некоторые выводы.
 5. Построение модели, которая предсказывает рейтинг отеля на booking.com
 6. Построение модели, которая будет предсказывать общую продолжительность поездки на такси в Нью-Йорке. Взята из соревнований на Kaggle
+7. Наивный байесовский классификатор: практика (Реализовать классификацию спам-сообщений электронной почты)
 
 ### PS:  
 Оказывается все возможно сделать, если захочешь!!!
